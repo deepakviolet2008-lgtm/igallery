@@ -146,6 +146,8 @@ popup.addEventListener('click', e => {
 });
 ```
 ## OUTPUT:
+<img width="1035" height="260" alt="image" src="https://github.com/user-attachments/assets/7561a902-4b3d-44c1-960d-b953580b1fb2" />
+<img width="1889" height="927" alt="image" src="https://github.com/user-attachments/assets/2a12928b-83d9-406b-93b4-bfd642f5f100" />
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
