@@ -92,7 +92,7 @@ Publish the website in the given URL.
             color:black;
             padding:10px;
             position:fixed;
-            bottom:0;
+            bottom:30;
             width:100%;
             font-size:20px;
         }
@@ -155,7 +155,7 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![alt text](<Screenshot (44).png>)
+![alt text](<Screenshot (45).png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
